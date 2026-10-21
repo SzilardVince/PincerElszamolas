@@ -1,1 +1,11 @@
-﻿Console.WriteLine("Hello, World!");
+﻿using PincerElszamolas;
+Console.ForegroundColor = ConsoleColor.Green;
+
+
+
+
+
+
+
+
+Console.ForegroundColor = ConsoleColor.Black;
